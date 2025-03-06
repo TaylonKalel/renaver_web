@@ -10,7 +10,7 @@
 	  "**/**.vscode/extensions.json": true,
 	  "**/**.vscode/launch.json": true,
 	  "**/**.vscode/tasks.json": true,
-	  "**/**tsconfig*": true,
+	  "**/**tsconfig*": false,
 	  "**/**tailwind.config.js": true,
 	  "**/**eslint.config.js": true,
 	  "**/src/assets": true,	  
